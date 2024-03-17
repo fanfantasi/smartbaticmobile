@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "822381416388",
+    "project_id": "smart-baik-class",
+    "storage_bucket": "smart-baik-class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822381416388:android:699d80abfb553c09ab5e91",
+        "android_client_info": {
+          "package_name": "com.junior.sbc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822381416388-0vh4ap6t0ff1n4mjso2870rbkoksm2re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.junior.sbc",
+            "certificate_hash": "72ae22a24846c500a11d62160751be415ebaa84d"
+          }
+        },
+        {
+          "client_id": "822381416388-o9cqdk7ej9pj2r42eu1g9c4eg2unoqea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDkrATGqMb8z5HsiQ6SQrEFsKAHFbGsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822381416388-o9cqdk7ej9pj2r42eu1g9c4eg2unoqea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
